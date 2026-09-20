@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Jupyter configuration, runtime files, and workspace state
+.jupyter/
+.ipython/
+*.jupyterlab-workspace
+
+# Local secrets (keep safe example templates trackable)
+.env.*
+!.env.example
+!.env.sample
+
+# macOS and editor temporary files
+.DS_Store
+._*
+*.swp
+*.swo
+*~
+
+# Optional local datasets and scratch exports; small course datasets can be tracked elsewhere
+/data/local/
+/scratch/
