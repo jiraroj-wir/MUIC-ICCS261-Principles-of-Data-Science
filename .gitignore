@@ -220,6 +220,7 @@ __marimo__/
 # Local Jupyter configuration, runtime files, and workspace state
 .jupyter/
 .ipython/
+.virtual_documents/
 *.jupyterlab-workspace
 
 # Local secrets (keep safe example templates trackable)
