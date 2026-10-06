@@ -132,7 +132,7 @@ Did Jo Nagai test whether Papilio xuthus butterflies naturally avoid lavender ev
 
 - **Claim you verified:** Unconditioned wild butterflies avoided lavender 51.0% of the time.
 
-- **Independent source (title + link):** *Epigenetic Transmission of Learned Larval Memory across Generations in Papilio xuthus* — Ecological Society of Japanyea, 
+- **Independent source (title + link):** *Epigenetic Transmission of Learned Larval Memory across Generations in Papilio xuthus* — Ecological Society of Japan, 
   [https://www.esj.ne.jp/meeting/abst/73/PH-048.html](https://www.esj.ne.jp/meeting/abst/73/PH-048.html)
 
 - **Result:** ☑ Confirmed
@@ -347,7 +347,9 @@ I agree with most of the assessment, especially the computational limitations. I
 
 - **Final version of your research question for the next assignment:**
 
-How do truncated and randomized SVD methods compare in compression ratio, approximation error, and runtime when applied to gravitational potential kernels constructed from Monte Carlo samples of different sizes?---
+How do truncated and randomized SVD methods compare in compression ratio, approximation error, and runtime when applied to gravitational potential kernels constructed from Monte Carlo samples of different sizes?
+
+---
 
 # AI Use Declaration
 
