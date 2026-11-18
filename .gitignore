@@ -239,5 +239,7 @@ __marimo__/
 /data/local/
 /scratch/
 /drive.google.com/
+/preliminary_jpl_mba_analysis.parquet
+/preliminary_svd_rank50.parquet
 
 q1.pdf
